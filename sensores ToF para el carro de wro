@@ -1,0 +1,6 @@
+conecté de los sensores a los pines 14, 27, 33, 32.
+
+ XSHUT_1 33
+ XSHUT_2 32
+ XSHUT_3 14
+ XSHUT_4 27
